@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Swift, Flutter, Firebase**
 
-- 📫 How to reach me **batuhan_Akdemir05@hotmail.com**
+- 📫 How to reach me **batuhanakdemir1@outlook.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
