@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Swift, Flutter**
 
-- 🌱 I’m currently learning **Node.js**
-
 - 💬 Ask me about **Swift, Flutter, Firebase**
 
 - 📫 How to reach me **batuhanakdemir1@outlook.com**
